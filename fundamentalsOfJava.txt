@@ -1,0 +1,19 @@
+Q1.---?
+→ the programming language is a set of instructions that allows a programmer to communicate with a computer.
+
+Q2.---? 
+→ we need a programming language for software development.
+
+Q2.---? 
+→ features of JAVA:
+Object oriented programing 
+Platform dependent’
+High performance
+Multi-threaded
+Simple syntax
+Q3.—?
+→ the class in java is the blueprint of the object.
+
+Q4.---?
+→ the main method()  in java is an entry point of the program.
+
