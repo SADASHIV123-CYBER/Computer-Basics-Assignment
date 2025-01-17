@@ -1,0 +1,98 @@
+Q.1 ---?
+--> statically typed programming languages check theri variable at compilation time but the Dynamically typed programming languages cheks 
+    their variable at run time.
+
+    statically typed programming languages: c, c++, java...
+    Dynamically typed programming languages: javascript, python, pht...
+
+Q.2 ---?
+--> variables in java is the fundamental element, that can be stored data  manipulated throughout a program.
+
+Q.3 ---?
+--> assign a value to variable by using assignment operator(=).
+
+Q.4 ---?
+--> primitive data type in java predefined data type that cam be store symple value directly.
+
+Q.5 ---?
+--> In Java, identifiers are names given to elements in a program, such as variables, classes, methods, and objects. They are used to 
+    identify and differentiate between different parts of the code.
+
+Q.6 ---?
+--> Types of Operators in Java:-
+        Arithmetic Operators
+        Unary Operators
+        Assignment Operator
+        Relational Operators
+        Logical Operators
+        Ternary Operator
+        Bitwise Operators
+        Shift Operators
+        instance of operator
+
+Q.7 ---?
+--> in java we have uniary operator and in this operator we have increment(++) and decrement operator.
+    1> increment(++): 
+
+        this type of operator we are using for increment by one.
+        in this type of operator we have two types: 
+
+            1>pre increment: they are increment first and then assign the value
+
+                example: public class asdf {
+                            public static void main(String args[]) {
+                                int a = 10;
+                                int b = ++a;
+                                System.out.println(a);
+                                System.out.println(b);
+                            }
+                        }  
+                            output: 11
+                                    11
+
+            2>post increment: they are assign the value and then increment the value
+
+                example: public class asdf {
+
+                            public static void main(String args[]) {
+                                int a = 10;
+                                int b = a++;
+                                System.out.println(a);
+                                System.out.println(b);
+                            }
+                        }
+                            output: 11
+                                    10
+
+    2> decrement(--):
+
+    this type of operator we are using for decrement by one.
+    in this type of operator we hva two types:
+
+        1>pre: in this type they are decrement first and then assign the value.
+        
+            example: public class asdf {
+
+                        public static void main(String args[]) {
+                            int a = 10;
+                            int b = --a;
+                            System.out.println(a);
+                            System.out.println(b);
+                        }
+                    }  
+                        output: 9
+                                9
+
+        2>post: in this type they are assign the value and then decrement the value.
+
+            example: public class asdf {
+                        public static void main(String args[]) {
+                            int a = 10;
+                            int b = a--;
+                            System.out.println(a);
+                            System.out.println(b);
+                        }
+                    }
+                        output: 9
+                                10
+
