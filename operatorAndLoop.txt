@@ -1,0 +1,58 @@
+Q.1 --->
+--> in java conditional operator they are check condition and then when condition one is true then executes value 1 otherwise 
+    executes value 2.
+
+    conditional Operators in java:
+    Conditional or Logical AND
+    &&
+    Conditional or Logical OR
+    ||
+    Ternary Operator
+    ?:
+
+Q.2 --->
+--> 1> uniary operator
+    2> binary operator
+    3> Ternary operator
+
+Q.3 ---?
+--> in java we are using switch case programming for check switch and case. when we add switch and case then they cheks similar to switch 
+    case. when case is similar to switch then executes this case. and executes all case below the similar case. and when we have stop 
+    execuation below the similar case then we are using break.
+
+Q.4 ---?
+--> Last Minute Java Programming Arithmetic Operators, Priority ...In Java, the priority levels of arithmetic operations are 
+    multiplication, division, and remainder, followed by addition and subtraction
+
+Q.5 ---?
+--> conditional statement is based on java or its also works on boolean values. when condition is true the executes value of condition 
+    1 otherwise executes value of condition 2.
+    conditional operator we are using for check condition.
+    conditional operator : if, else, else if, switch case.
+
+Q.6 ---?
+--> syntax of if else statement :_
+    if(condition) { // condition is true then executes if body otherwise executes else body
+
+    } else {
+
+    }
+
+Q.7 ---?
+--> 1> for loop
+    2> while loop
+    3> do while loop
+
+Q.8 ---?
+--> for loop:- in for loop first check condition and when condition is true then executes body of for loop.
+    do-while loop:- in this type of loop first executes statement and then after executes while body condition.
+
+Q.9 ---?
+--> public class ex {
+
+    public static void main(String[] args) {
+        for(int i = 1; i <= 10; i++) {
+            System.out.println(i);
+        }
+    }
+}  
