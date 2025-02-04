@@ -1,0 +1,40 @@
+Q.1 ---?
+--> class Object {
+    public int add(int n1, int n2) {
+        int result  = n1 + n2;
+        return result;
+    }
+}
+
+public class opps {
+    public static void main(String[] args) {
+        Object obj = new Object();
+
+        int result = obj.add(1, 2);
+        System.out.println(result);
+    }
+    
+}
+
+
+can create object in java by using this meathod 
+
+Q.2 ---?
+--> in java we are using new keyword for create new object.
+
+Q.3 ---?
+--> we have three types of variable in java:
+                                            1> local
+                                            2> instance
+                                            3> static
+
+Q.4 ---?
+--> the instance variable is declared inside the class but outside the meathod and the local variable is declared inside the meathod
+
+Q.5 ---? 
+--> instance variable -> heap memory
+    local variable -> stack memory
+
+Q.6 ---? 
+--> in we have special feature of meathod overloading thats allows to class multiple meathod with same name but with different 
+    parameaters.
